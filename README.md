@@ -1,2 +1,2 @@
-# simple_bash
-In this project you will learn and develop basic Bash utilities for working with C programming language texts.
+# simple_bash_utils
+Этот репозиторий содержит проект по разработке двух основных утилит Bash - cat и grep, реализованных на языке программирования C. Эти утилиты предназначены для работы с текстовыми файлами в операционных системах Unix-подобных, таких как Linux.
